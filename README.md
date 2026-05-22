@@ -1,6 +1,6 @@
 # 🏄 Surfing Lessons Manager
 
-A command-line application for managing surfing lesson sessions, student enrolments, and payment tracking. Built with Python as part of COMP5002 Assessment 3.
+A command-line application for managing surfing lesson sessions, student enrolments, and payment tracking. 
 
 ---
 
